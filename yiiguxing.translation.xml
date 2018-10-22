@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stack" />
       <item value="Collection address" />
       <item value="Collectionaddress" />
       <item value="收款账户地址" />
@@ -50,12 +51,11 @@
       <item value="重置" />
       <item value="过滤" />
       <item value="deliver number" />
-      <item value="原因" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
