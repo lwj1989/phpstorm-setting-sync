@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Collection address" />
+      <item value="Collectionaddress" />
+      <item value="收款账户地址" />
       <item value="earnest money" />
       <item value="security deposit" />
       <item value="bao" />
@@ -48,14 +51,11 @@
       <item value="过滤" />
       <item value="deliver number" />
       <item value="原因" />
-      <item value="委托" />
-      <item value="审核注册信息" />
-      <item value="shuffle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
