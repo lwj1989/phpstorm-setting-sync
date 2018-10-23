@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排行榜" />
       <item value="votes" />
       <item value="投票数" />
       <item value="联系人" />
@@ -50,12 +51,11 @@
       <item value="on Apply Coupon Code" />
       <item value="product market price rate" />
       <item value="is Custom" />
-      <item value="自定义价格" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
