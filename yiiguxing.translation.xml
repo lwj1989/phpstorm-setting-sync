@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="身份证" />
+      <item value="身份审核" />
       <item value="stack" />
       <item value="Collection address" />
       <item value="Collectionaddress" />
@@ -49,8 +51,6 @@
       <item value="advanced management" />
       <item value="高级管理" />
       <item value="重置" />
-      <item value="过滤" />
-      <item value="deliver number" />
     </histories>
     <option name="languageScores">
       <map>
