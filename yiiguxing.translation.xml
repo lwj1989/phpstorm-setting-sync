@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="百分比" />
       <item value="user auth status" />
       <item value="concurrency" />
       <item value="Force the pool of requests to complete." />
@@ -50,7 +51,6 @@
       <item value="recharge balance" />
       <item value="冻结金额" />
       <item value="意见反馈" />
-      <item value="建议" />
     </histories>
     <option name="languageScores">
       <map>
