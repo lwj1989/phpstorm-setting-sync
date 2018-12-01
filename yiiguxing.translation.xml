@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Loan Super User" />
       <item value="Create array containing variables and their values" />
       <item value="Send the given notification." />
       <item value="Determine if the request contains a given input item key." />
@@ -50,12 +51,11 @@
       <item value="amount" />
       <item value="collection account" />
       <item value="用户识别码" />
-      <item value="identifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
