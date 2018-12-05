@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Codes/shop/config/cms.php" timestamp="1543982338476">
+        <mark key="[" line="265" column="64" />
+        <mark key="]" line="265" column="64" />
+        <mark key="." line="265" column="64" />
+      </file>
       <file name="$USER_HOME$/Codes/shop/.env" timestamp="1543980348537">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="12" />
@@ -11,11 +16,14 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZvbGRlcicgPT4gJ21lZGlhJywKICAgICAgICAgICAgJ3BhdGgnICAgPT4gJ2h0dHBzOi8vdGVzdGRpYW5zaGFuZy5vc3MtY24taG9uZ2tvbmcuYWxpeXVuY3MuY29tL3Nob3AvbWVkaWEnLAo=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>octobershop</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>octobershop</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
