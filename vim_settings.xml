@@ -9,6 +9,11 @@
         <mark key="." line="266" column="48" />
         <mark key="^" line="266" column="48" />
       </file>
+      <file name="$USER_HOME$/Codes/shop/plugins/lwj1989/shop/controllers/BaseController.php" timestamp="1544110719850">
+        <mark key="[" line="124" column="14" />
+        <mark key="]" line="124" column="14" />
+        <mark key="." line="124" column="14" />
+      </file>
       <file name="$USER_HOME$/Codes/shop/.env" timestamp="1543984035538">
         <mark key="[" line="36" column="7" />
         <mark key="]" line="36" column="7" />
@@ -22,10 +27,10 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2ZvbGRlcicgPT4gJ21lZGlhJywKICAgICAgICAgICAgJ3BhdGgnICAgPT4gJ2h0dHBzOi8vdGVzdGRpYW5zaGFuZy5vc3MtY24taG9uZ2tvbmcuYWxpeXVuY3MuY29tL3Nob3AvbWVkaWEnLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>queue</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>queue</text>
       </register>
     </registers>
     <search>
