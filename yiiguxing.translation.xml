@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Charges" />
       <item value="超出范围" />
       <item value="超出订单总额" />
       <item value="min order amount" />
@@ -50,12 +51,11 @@
       <item value="Assign Customer" />
       <item value="分配客服" />
       <item value="frozen amount" />
-      <item value="entrusts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
