@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="verify" />
+      <item value="combo" />
+      <item value="supplier" />
       <item value="_get Region List By Region Ids" />
+      <item value="verify" />
       <item value="organization" />
       <item value="fail" />
       <item value="failer" />
@@ -49,13 +51,11 @@
       <item value="security deposit" />
       <item value="bao" />
       <item value="保证金" />
-      <item value="Margin" />
-      <item value="baozhengjin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
