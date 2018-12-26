@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
+      <item value="_get Region List By Region Ids" />
+      <item value="organization" />
       <item value="fail" />
       <item value="failer" />
       <item value="Charges" />
@@ -48,14 +51,11 @@
       <item value="保证金" />
       <item value="Margin" />
       <item value="baozhengjin" />
-      <item value="Save" />
-      <item value="Assign Admin" />
-      <item value="Assign Customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
