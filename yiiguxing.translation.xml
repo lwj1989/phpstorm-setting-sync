@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fires when an error occurs during object loading." />
       <item value="region" />
       <item value="_get Supplier Verify Num" />
       <item value="combo" />
@@ -50,12 +51,11 @@
       <item value="Collectionaddress" />
       <item value="收款账户地址" />
       <item value="earnest money" />
-      <item value="security deposit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
