@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="referer" />
+      <item value="get Referer Url" />
+      <item value="previous" />
+      <item value="on Exception Handle" />
       <item value="array column" />
       <item value="privince" />
       <item value="$privince Ids" />
@@ -47,15 +51,11 @@
       <item value="// Image and file upload path under the disk above." />
       <item value="Schedule the event to run daily." />
       <item value="排行榜" />
-      <item value="votes" />
-      <item value="投票数" />
-      <item value="联系人" />
-      <item value="职位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
