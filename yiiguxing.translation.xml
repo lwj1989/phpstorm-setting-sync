@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signature" />
       <item value="$param" />
       <item value="$params" />
       <item value="create Signature" />
@@ -50,12 +51,11 @@
       <item value="Determine if the request contains a given input item key." />
       <item value="Division" />
       <item value="Division by zero" />
-      <item value="relation id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="1" />
