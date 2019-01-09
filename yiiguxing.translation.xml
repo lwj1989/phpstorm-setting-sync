@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns information about a file path" />
+      <item value="Ueitord" />
+      <item value="Upload Img" />
+      <item value="action Ueitord Upload Img" />
       <item value="get Custodian" />
       <item value="获取负责人城市列表" />
       <item value="Return the values from a single column in the input array" />
       <item value="action Lists" />
-      <item value="action Ueitord Upload Img" />
       <item value="district id" />
       <item value="Signature" />
       <item value="$param" />
@@ -48,19 +51,19 @@
       <item value="$bulk Urls" />
       <item value="重新加入队列" />
       <item value="huge" />
-      <item value="notpresent" />
-      <item value="recyclebin" />
-      <item value="Loan Super User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
