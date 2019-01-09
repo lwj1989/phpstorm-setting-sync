@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="action Lists" />
       <item value="action Ueitord Upload Img" />
       <item value="district id" />
       <item value="Signature" />
@@ -50,12 +51,11 @@
       <item value="Create array containing variables and their values" />
       <item value="Send the given notification." />
       <item value="Determine if the request contains a given input item key." />
-      <item value="Division" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="1" />
