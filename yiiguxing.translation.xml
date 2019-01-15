@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decodes URL-encoded string" />
       <item value="Moves an uploaded file to a new location" />
       <item value="acreage" />
       <item value="unified price" />
@@ -50,12 +51,11 @@
       <item value="fail" />
       <item value="failer" />
       <item value="Charges" />
-      <item value="超出范围" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
