@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parse about any English textual datetime description into a Unix timestamp" />
       <item value="Natural logarithm" />
       <item value="Throwable is the base interface for any object that can be thrown via a throw statement in PHP 7, * including Error and Exception." />
       <item value="Throwable" />
@@ -50,12 +51,11 @@
       <item value="combo" />
       <item value="supplier" />
       <item value="_get Region List By Region Ids" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
