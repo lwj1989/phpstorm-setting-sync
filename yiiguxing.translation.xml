@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add an open bracket for nesting WHERE conditions." />
       <item value="get Region Level Name" />
       <item value="get Province City Name By City Id" />
       <item value="Parse about any English textual datetime description into a Unix timestamp" />
@@ -50,12 +51,11 @@
       <item value="Fires when an error occurs during object loading." />
       <item value="region" />
       <item value="_get Supplier Verify Num" />
-      <item value="combo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
