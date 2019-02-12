@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="_init Value" />
       <item value="action Hot Brands" />
       <item value="Finds whether a variable is a number or a numeric string" />
       <item value="Find whether the type of a variable is integer" />
@@ -50,12 +51,11 @@
       <item value="previous" />
       <item value="on Exception Handle" />
       <item value="array column" />
-      <item value="privince" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
