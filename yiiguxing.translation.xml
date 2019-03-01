@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="array an array containing all the entries from * array1 that are not present in any of the other arrays." />
+      <item value="An array to compare against" />
+      <item value="The array to compare from" />
+      <item value="Computes the difference of arrays" />
       <item value="获取最后一条日志" />
       <item value="STATUS REJECTION" />
       <item value="审核拒绝" />
@@ -29,7 +33,6 @@
       <item value="参数组" />
       <item value="是否存在" />
       <item value="is Exsits" />
-      <item value="Computes the difference of arrays" />
       <item value="prompt" />
       <item value="Add an open bracket for nesting WHERE conditions." />
       <item value="get Region Level Name" />
@@ -48,14 +51,11 @@
       <item value="STATUS DENY" />
       <item value="Returns information about a file path" />
       <item value="Ueitord" />
-      <item value="Upload Img" />
-      <item value="action Ueitord Upload Img" />
-      <item value="get Custodian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
