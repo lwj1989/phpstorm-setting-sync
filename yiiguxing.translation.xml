@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取最后一条日志" />
       <item value="STATUS REJECTION" />
       <item value="审核拒绝" />
       <item value="审核驳回" />
@@ -50,7 +51,6 @@
       <item value="Upload Img" />
       <item value="action Ueitord Upload Img" />
       <item value="get Custodian" />
-      <item value="获取负责人城市列表" />
     </histories>
     <option name="languageScores">
       <map>
