@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VERIFY FAIL" />
+      <item value="VERIFY COMPANY" />
+      <item value="审核通过" />
+      <item value="_COMPANY" />
+      <item value="VERIFY" />
+      <item value="审核" />
+      <item value="VE" />
+      <item value="STATUS REJECTION" />
+      <item value="review" />
+      <item value="更新" />
+      <item value="修改会" />
       <item value="is Wait Verify" />
       <item value="是否待审核" />
       <item value="判断公司是不是待审核状态" />
-      <item value="审核" />
       <item value="Review" />
       <item value="获取待审核信息" />
       <item value="Computes the difference of arrays" />
@@ -12,7 +22,6 @@
       <item value="An array to compare against" />
       <item value="The array to compare from" />
       <item value="获取最后一条日志" />
-      <item value="STATUS REJECTION" />
       <item value="审核拒绝" />
       <item value="审核驳回" />
       <item value="reject" />
@@ -42,20 +51,11 @@
       <item value="prompt" />
       <item value="Add an open bracket for nesting WHERE conditions." />
       <item value="get Region Level Name" />
-      <item value="get Province City Name By City Id" />
-      <item value="Parse about any English textual datetime description into a Unix timestamp" />
-      <item value="Natural logarithm" />
-      <item value="Throwable is the base interface for any object that can be thrown via a throw statement in PHP 7, * including Error and Exception." />
-      <item value="Throwable" />
-      <item value="$previous" />
-      <item value="Decodes URL-encoded string" />
-      <item value="Moves an uploaded file to a new location" />
-      <item value="acreage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
@@ -64,6 +64,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
