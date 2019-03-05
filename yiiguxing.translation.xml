@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$operation" />
       <item value="is Same Info" />
       <item value="相同" />
       <item value="一致" />
@@ -50,12 +51,11 @@
       <item value="action Hot Brands" />
       <item value="Finds whether a variable is a number or a numeric string" />
       <item value="Find whether the type of a variable is integer" />
-      <item value="参数组" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
