@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Same Info" />
+      <item value="相同" />
+      <item value="一致" />
+      <item value="是否一致" />
+      <item value="判断信息是否一致" />
       <item value="VERIFY FAIL" />
       <item value="VERIFY COMPANY" />
       <item value="审核通过" />
@@ -46,16 +51,11 @@
       <item value="Finds whether a variable is a number or a numeric string" />
       <item value="Find whether the type of a variable is integer" />
       <item value="参数组" />
-      <item value="是否存在" />
-      <item value="is Exsits" />
-      <item value="prompt" />
-      <item value="Add an open bracket for nesting WHERE conditions." />
-      <item value="get Region Level Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
