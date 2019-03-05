@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="begin" />
       <item value="$intersect" />
       <item value="$array intersect" />
       <item value="$operation" />
@@ -50,12 +51,11 @@
       <item value="Split a string by string" />
       <item value="get Business Policy Selects" />
       <item value="_init Value" />
-      <item value="action Hot Brands" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
