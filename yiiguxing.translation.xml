@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$max Column" />
       <item value="Return a specific character" />
       <item value="get Column Dimension" />
       <item value="Set a cell value by using numeric cell coordinates" />
@@ -50,12 +51,11 @@
       <item value="numeric" />
       <item value="Add an element to an array using &quot;dot&quot; notation if it doesn't exist." />
       <item value="Return the values from a single column in the input array" />
-      <item value="get Search Not Full Company List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
