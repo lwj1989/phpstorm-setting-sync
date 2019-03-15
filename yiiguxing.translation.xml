@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merge one or more arrays" />
+      <item value="ACCURATE ALL" />
+      <item value="ISXJ STATUS LOCAL" />
+      <item value="OTHER PAY COUNTRY" />
+      <item value="OTHER PAY CONTURY" />
       <item value="$is Insert" />
       <item value="Determines if the instance is greater (after) than or equal to another" />
       <item value="__construct" />
@@ -46,16 +51,11 @@
       <item value="审核驳回" />
       <item value="reject" />
       <item value="拒绝" />
-      <item value="rejection" />
-      <item value="STATUS PENDING" />
-      <item value="待审核" />
-      <item value="STATUS CHECK" />
-      <item value="$haystack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
