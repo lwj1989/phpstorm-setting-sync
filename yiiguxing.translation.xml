@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Empty Business Fields" />
+      <item value="get Empty Business Filed" />
+      <item value="get Empty Business Field" />
+      <item value="获取空商务列表字段" />
       <item value="OPERATOR FAIL" />
       <item value="OPERATOR FAILE" />
       <item value="OPERATOR TYPE" />
@@ -47,15 +51,11 @@
       <item value="获取待审核信息" />
       <item value="Computes the difference of arrays" />
       <item value="array an array containing all the entries from * array1 that are not present in any of the other arrays." />
-      <item value="An array to compare against" />
-      <item value="The array to compare from" />
-      <item value="获取最后一条日志" />
-      <item value="审核拒绝" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
