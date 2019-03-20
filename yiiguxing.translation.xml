@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="补充信息" />
       <item value="get Empty Business Fields" />
       <item value="get Empty Business Filed" />
       <item value="get Empty Business Field" />
@@ -50,7 +51,6 @@
       <item value="Review" />
       <item value="获取待审核信息" />
       <item value="Computes the difference of arrays" />
-      <item value="array an array containing all the entries from * array1 that are not present in any of the other arrays." />
     </histories>
     <option name="languageScores">
       <map>
